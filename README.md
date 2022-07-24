@@ -8,7 +8,6 @@ Bem vindo ao meu perfil GitHub 👋
 </p>
 
 
-Aqui estão algumas idéias para você começar:
 
 - 🔭 Tenho 25 anos e atualmente estou em transição de carreira
 - 🌱 Atualmente estou aprendendo pyhon e engenharia de dados
