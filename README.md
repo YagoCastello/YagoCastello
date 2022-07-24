@@ -10,7 +10,7 @@ Bem vindo ao meu perfil GitHub 👋
 
 
 - 🔭 Tenho 25 anos e atualmente estou em transição de carreira
-- 🌱 Atualmente estou aprendendo pyhon e engenharia de dados através de cursos nas plataformas YouTube e Udemy
+- 🌱 Atualmente estou aprendendo python e engenharia de dados através de cursos nas plataformas YouTube e Udemy
 - 👽Tenho interesse em ser um desenvolvedora Back-End 
 - 🧠 Estou começando do 0 os estudos de programação através da linguagem Python
 - 🎮E nos tempos livres eu gosto de jogar
