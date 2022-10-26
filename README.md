@@ -48,10 +48,6 @@ Estou aprendendo:
   
   
   
-<p align="center">
-  <img src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif" width="350">
-</p>
-  
   
   
   
