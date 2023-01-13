@@ -1,5 +1,7 @@
 
 
+
+
 Olá, me chamo Yago ! 
 Bem vindo ao meu perfil GitHub 👋
 
@@ -40,10 +42,16 @@ Estou aprendendo:
 
 
 <div>
+  
+  
+<p align="center">
 <a href="https://github.com/YagoCastello">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoCastello&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=YagoCastello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YagoCastello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YagoCastello&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=5"/>
+<img height="140em" src= "https://streak-stats.demolab.com?user=YagoCastello&theme=tokyonight&hide_border=true&border_radius=5&locale=pt_BR"/> <img height="140em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YagoCastello&theme=tokyonight&utcOffset=8"/> <img width="500em" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YagoCastello&theme=tokyonight"/>
+</a>
+</p>
+  </div>
 
   
   
