@@ -16,7 +16,7 @@ Bem vindo ao meu perfil GitHub 👋
 - 👽 Tenho interesse em ser um desenvolvedor Back-End 
 - 🧠 Estou começando do 0 os estudos de programação através da linguagem Python
 - 🎮 E nos tempos livres eu gosto de jogar
-
+![](https://komarev.com/ghpvc/?username=YagoCastello&color=blueviolet&style=plastic)
 
 Ferramentas e Tecnologias:
 
