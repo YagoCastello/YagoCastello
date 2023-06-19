@@ -5,9 +5,6 @@
 Olá, me chamo Yago ! 
 Bem vindo ao meu perfil GitHub 👋
 
-<p align="center">
-  <img src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif" width="350">
-</p>
 
 
 
