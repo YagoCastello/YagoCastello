@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Olá, me chamo Yago ! Bem vindo ao meu perfil GitHub 👋<br><br>🔭 Tenho 27 anos e atualmente estou em transição de carreira<br>🌱 Atualmente estou estágiando na TT&T , no backend, estou aprendendo java para poder administrar os endpoints da empresa.<br>👽 Por conta propria estou aprendendo python e engenharia de dados através de cursos nas plataformas YouTube e Udemy<br>🧠 Estou começando do 0 os estudos de programação através da linguagem Python<br>🎮 E nos tempos livres eu gosto de jogar e aprender sobre desenvolvimento de jogos na Unreal Engine 5
+<br>Olá, me chamo Yago ! Bem vindo ao meu perfil GitHub 👋<br><br>🔭 Tenho 27 anos ,estou no meu 2º  periodo em Análise e Desenvolvimento de Sistemas na faculdade Descomplica<br>👽 Por conta propria estou aprendendo python e engenharia de dados através de cursos nas plataformas YouTube e Udemy<br><br>🎮 E nos tempos livres eu gosto de jogar e aprender sobre desenvolvimento de jogos na Unreal Engine 5
 
 
 ## 🌐 Socials:
@@ -22,8 +22,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=YagoCastello&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YagoCastello&icon=0&color=0)](https://visitcount.itsvg.in)
