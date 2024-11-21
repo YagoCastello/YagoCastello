@@ -1,10 +1,47 @@
+
 # 💫 About Me:
-<br>Olá, me chamo Yago ! Bem vindo ao meu perfil GitHub 👋<br><br>🔭 Tenho 27 anos ,estou no meu 2º  periodo em Análise e Desenvolvimento de Sistemas na faculdade Descomplica<br>👽 Por conta propria estou aprendendo python e engenharia de dados através de cursos nas plataformas YouTube e Udemy<br><br>🎮 E nos tempos livres eu gosto de jogar e aprender sobre desenvolvimento de jogos na Unreal Engine 5
+<br>👋 Olá, me chamo Yago ! Bem vindo ao meu perfil GitHub.
+<br>🔭 Tenho 27 anos ,estou no meu 2º  periodo em Análise e Desenvolvimento de Sistemas na faculdade Descomplica.
+<br>👽 Por conta propria estou aprendendo python e engenharia de dados através de cursos nas plataformas YouTube e Udemy.
+<br>🎮 E nos tempos livres eu gosto de jogar e aprender sobre desenvolvimento de jogos na Unreal Engine 5.
+<br>
+<br>
+<br>
+[![](https://visitcount.itsvg.in/api?id=YagoCastello&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagosalomanprogramador/) 
-<a href = "mailto:yagodealmeidacs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpwNXBucHMzNWRwNGpxNHZ5Ym1vYWdzeXd4cXlrZmgzb2VzMjRrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHxTQkcjmHUTC/giphy.gif"  />
+<br>
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=YagoCastello&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+###
+
+<div align="left">
+
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+
+
+###
+
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
@@ -19,12 +56,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YagoCastello&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=YagoCastello&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
