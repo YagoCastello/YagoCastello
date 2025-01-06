@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 <br>👋 Olá, me chamo Yago ! Bem vindo ao meu perfil GitHub.
-<br>🔭 Tenho 27 anos ,estou no meu 2º  periodo em Análise e Desenvolvimento de Sistemas na faculdade Descomplica.
+<br>🔭 Tenho 27 anos ,estou no meu 3º  periodo em Análise e Desenvolvimento de Sistemas na faculdade Descomplica.
 <br>👽 Por conta propria estou aprendendo python e engenharia de dados através de cursos nas plataformas YouTube e Udemy.
 <br>🎮 E nos tempos livres eu gosto de jogar e aprender sobre desenvolvimento de jogos na Unreal Engine 5.
 <br>
